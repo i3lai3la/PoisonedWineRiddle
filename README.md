@@ -1,5 +1,5 @@
 # Poisoned Wine Riddle
-**Poisoned Wine Riddle** is simple console application that is giving you a result for Poisoned Wine Riddle
+**Poisoned Wine Riddle** is simple console application that is giving you a result for Poisoned Wine Riddle. Theres two options available, one is to find poisoned bottle and second options is to look at how many guinea pig required in order to test the amount of wine input by a user.
 
 # Technologies:-
  * .NET Framework 4.5.2 , C#
