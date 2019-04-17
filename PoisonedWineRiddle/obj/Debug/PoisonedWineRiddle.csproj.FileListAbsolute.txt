@@ -1,0 +1,7 @@
+C:\Users\huatyk\source\repos\PoisonedWineRiddle\PoisonedWineRiddle\bin\Debug\PoisonedWineRiddle.exe.config
+C:\Users\huatyk\source\repos\PoisonedWineRiddle\PoisonedWineRiddle\bin\Debug\PoisonedWineRiddle.exe
+C:\Users\huatyk\source\repos\PoisonedWineRiddle\PoisonedWineRiddle\bin\Debug\PoisonedWineRiddle.pdb
+C:\Users\huatyk\source\repos\PoisonedWineRiddle\PoisonedWineRiddle\obj\Debug\PoisonedWineRiddle.csprojAssemblyReference.cache
+C:\Users\huatyk\source\repos\PoisonedWineRiddle\PoisonedWineRiddle\obj\Debug\PoisonedWineRiddle.csproj.CoreCompileInputs.cache
+C:\Users\huatyk\source\repos\PoisonedWineRiddle\PoisonedWineRiddle\obj\Debug\PoisonedWineRiddle.exe
+C:\Users\huatyk\source\repos\PoisonedWineRiddle\PoisonedWineRiddle\obj\Debug\PoisonedWineRiddle.pdb
