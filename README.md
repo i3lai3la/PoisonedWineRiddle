@@ -6,7 +6,7 @@
  * Visual Studio 2017
  
 # How To Execute:-
-1. Doownload or clone from repo. Run in Visual Studio, hit f5 tada!! 
+1. Download or clone from repo. Run in Visual Studio, hit f5 tada!! 
 
 # Sample console UI
 
@@ -16,6 +16,7 @@ WELCOME TO POISONED WINE RIDDLE
 
 Please select :-
 1 : Find Poisoned bottle
+
 2 : Find Total Guinea pig needed based on wine bottle
 
 **************************************************
