@@ -8,7 +8,6 @@
 # How To Execute:-
 1. Doownload or clone from repo. Run in Visual Studio, hit f5 tada!! 
 
-
 # Sample console UI
 
 **************************************************
